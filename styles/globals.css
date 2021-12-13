@@ -6,7 +6,9 @@ html {
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-body {
+html,
+body,
+div {
   background-color: $color-craft-dark;
 }
 
@@ -18,7 +20,7 @@ iframe {
   padding: 0px;
   height: 100%;
   border: none;
-}bo
+}
 
 iframe {
   display: block;
