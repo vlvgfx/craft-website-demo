@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>VILAV BHATT</title>
+        <title>VILAV x BHATT</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
