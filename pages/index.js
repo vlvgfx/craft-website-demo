@@ -9,7 +9,6 @@ export default function Home() {
       </Head>
 
       <body>
-<h1>VILAV BHATT</h1>
         <iframe src="https://www.craft.do/s/uZtDsEE5kkk5kt"
             frameborder="0"
             marginheight="0"
