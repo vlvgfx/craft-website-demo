@@ -9,14 +9,8 @@ export default function Home() {
       </Head>
 
       <body>
-    
-    <script>
-    $(document).ready(function() {
-    $('iframe').contents().find('h2').css('color','red');
-    $('iframe').contents().find('#header').css('opacity','.2');
-});
-    </script>
-        <iframe src="https://www.craft.do/s/uZtDsEE5kkk5kt"
+
+        <iframe src="https://www.craft.do/s/uZtDsEE5kkk5kt" style=”h1 font-size: 120%;
             frameborder="0"
             marginheight="0"
             marginwidth="0"
