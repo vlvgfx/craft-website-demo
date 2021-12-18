@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>VILAV x BHATT</title>
+        <title>VILAV BHATT</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,7 +14,6 @@ export default function Home() {
             frameborder="0"
             marginheight="0"
             marginwidth="0"
-            position="relative; top: -100px"
             width="100%"
             height="100%"
             scrolling="auto">
